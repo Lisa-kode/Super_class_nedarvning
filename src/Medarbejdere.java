@@ -4,7 +4,6 @@ public abstract class Medarbejdere {  //superklasse, hvor der nedarves fra. Bliv
 
     String navn;
     String adresse;
-    int cpr;
     int alder;
 
     //Metoder
