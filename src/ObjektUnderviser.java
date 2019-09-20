@@ -1,5 +1,7 @@
 public class ObjektUnderviser extends Medarbejdere {
 
+    //Dette er en SUB CLASS, den indeholder særegne egenskaber og meetoder for et specifikt objekt
+
     //Egenskab
     String fag;
     boolean pædagogisk;
